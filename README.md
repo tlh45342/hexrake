@@ -32,7 +32,7 @@ make install
   python -m hexdump binaryfile > output.txt
   python -m hexrake output.txt > binaryfile2
   md5sum binaryfile
-  mdfsum binaryfile2
+  md5sum binaryfile2
 ```
  
   The hash values for the two files should be identical
