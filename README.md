@@ -10,8 +10,6 @@ That is, to take a file created with hexdump and re-create the binary file it re
 
 ## Getting
 
-If wanting to create as a docker image the following command can be used.
-
 ```bash
 git clone https://github.com/tlh45342/hexrake.git
 ```
