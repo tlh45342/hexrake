@@ -8,6 +8,14 @@ hexrake is open source.  See the license file for more information
 This module is created to perfomr the inverse task of HEXDUMP.
 That is, to take a file created with hexdump and re-create the binary file it represents.
 
+## Getting
+
+If wanting to create as a docker image the following command can be used.
+
+```bash
+git clone https://github.com/tlh45342/hexrake.git
+```
+
 # Installation
 
 To build and install the wheel
@@ -15,10 +23,6 @@ To build and install the wheel
 ```bash
 make install
 ```
-
-
-# Example usage
-
 
 # Command line tool
 
