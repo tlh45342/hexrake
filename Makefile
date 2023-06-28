@@ -9,9 +9,6 @@ clean:
 uninstall:
 	pip uninstall hexrake -y
 	
-wheel:
-	pip wheel --no-deps -w dist .
-	
 install:
 	make uninstall
 	make clean
