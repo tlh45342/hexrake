@@ -24,7 +24,15 @@ To build and install the wheel
 make install
 ```
 
-# Command line tool
+# Notice:
+
+For Raspberry-pi I might suggest making sure the shim "python-is-python3" is installed
+
+```bash
+apt install python-is-python3
+```
+
+# As a command line tool
 
   Excuting the following
 
