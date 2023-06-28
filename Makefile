@@ -1,5 +1,8 @@
 all:
 
+build:
+	python setup.py bdist_wheel
+
 clean:
 	rm -rf build dist hexrake.egg-info
 	
