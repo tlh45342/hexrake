@@ -5,7 +5,7 @@ hexrake
 Copyright 2003 Thomas Hamilton tlh45342@gmail.com
 hexrake is open source.  See the license file for more information
 
-This module is created to perfomr the inverse task of HEXDUMP.
+This module is created to perform the inverse task of HEXDUMP.
 That is, to take a file created with hexdump and re-create the binary file it represents.
 
 ## Getting
