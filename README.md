@@ -2,7 +2,7 @@
 
 hexrake
 
-Copyright 2003 Thaomas Hamilton tlh45342@gmail.com
+Copyright 2003 Thomas Hamilton tlh45342@gmail.com
 hexrake is open source.  See the license file for more information
 
 This module is created to perfomr the inverse task of HEXDUMP.
