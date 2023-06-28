@@ -14,7 +14,7 @@ To build and install the wheel
 
 ```bash
 make install
-'''
+```
 
 
 # Example usage
@@ -29,7 +29,7 @@ make install
   python -m hexrake output.txt > binaryfile2
   md5sum binaryfile
   mdfsum binaryfile2
- '''
+```
  
   The hash values for the two files should be identical
   
