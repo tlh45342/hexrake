@@ -1,7 +1,7 @@
 all:
 
 build:
-	python setup.py bdist_wheel
+	pip wheel --no-deps -w dist .
 
 clean:
 	rm -rf build dist hexrake.egg-info
@@ -10,7 +10,7 @@ uninstall:
 	pip uninstall hexrake -y
 	
 wheel:
-	python setup.py bdist_wheel
+	pip wheel --no-deps -w dist .
 	
 install:
 	make uninstall
