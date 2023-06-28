@@ -24,7 +24,7 @@ make install
 
 # Notice:
 
-For Raspberry-pi I might suggest making sure the shim "python-is-python3" is installed
+For Raspberry-pi I might suggest making sure the shim "python-is-python3" is installed.
 
 ```bash
 apt install python-is-python3
