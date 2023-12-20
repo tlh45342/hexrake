@@ -12,5 +12,5 @@ uninstall:
 install:
 	make uninstall
 	make clean
-	make wheel
+	make build
 	pip install dist/hexrake-1.0-py3-none-any.whl
