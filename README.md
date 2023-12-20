@@ -2,7 +2,7 @@
 
 hexrake
 
-Copyright 2003 Thomas Hamilton tlh45342@gmail.com
+Copyright 2023 Thomas Hamilton tlh45342@gmail.com
 hexrake is open source.  See the license file for more information
 
 This module is created to perform the inverse task of HEXDUMP.
@@ -36,7 +36,7 @@ apt install python-is-python3
 
 ```bash
   python -m hexdump binaryfile > output.txt
-  python -m hexrake output.txt > binaryfile2
+  python -m hexrake -f output.txt -o binaryfile2
   md5sum binaryfile
   md5sum binaryfile2
 ```
