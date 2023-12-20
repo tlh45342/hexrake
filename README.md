@@ -44,3 +44,7 @@ apt install python-is-python3
   The hash values for the two files should be identical
   
 # CREDITS
+
+# NOTES
+
+Tom please finish.  Not to self... might include a test harness/directory.
